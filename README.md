@@ -14,7 +14,8 @@ What I Need Before Beginning ?
        
 - Basics of Fontend Developing
      1 - Html => 
-       https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
+      
+      https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
     - 2 - Css :
         -Not Required For Backend Developer But I Prefer To Take An Idea 
             
