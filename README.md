@@ -8,8 +8,8 @@ What I Need Before Beginning ?
 
 
 - Overview About Web Development
-       1 -  https://youtu.be/5YDVJaItmaY
-       2 -  https://www.youtube.com/watch?v=XBu54nfzxAQ
+       -  https://youtu.be/5YDVJaItmaY
+       -  https://www.youtube.com/watch?v=XBu54nfzxAQ
        
 - Basics of Fontend Developing
     - 1 - Html => https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
